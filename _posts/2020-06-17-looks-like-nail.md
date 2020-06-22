@@ -4,7 +4,7 @@ title:  "Everything looks like a nail"
 author: joe
 categories: [ opinion ]
 image: assets/images/joe-graphic.png
-tags: [featured]
+tags: [sticky, featured]
 ---
 Amid America’s largest wave of protests since 1968, it has become painfully apparent that no one has been watching the watchmen.
   
