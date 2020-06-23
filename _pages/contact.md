@@ -3,10 +3,11 @@ title: "Contact"
 permalink: "/contact.html"
 ---
 
-
+<h3>About Us</h3>
 <div class="about-us">
 The LT-Sentinel is an online news site started in June 2020. You can check out our authors <a href="/authors-list.html">here</a>.
 </div>
+<h3>Our Mission</h3>
 <div class="mission">
 Our mission at the LT-Sentinel is to provide you with up to date stories that keep you in the loop on everything from sports to politics. We take pride in our journalistic approach and our stories are backed with the utmost authenticity and dedication from our writers.
 </div>
