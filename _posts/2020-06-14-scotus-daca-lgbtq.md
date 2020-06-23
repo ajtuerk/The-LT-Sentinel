@@ -11,7 +11,7 @@ tags: [featured]
 
 This month, the U.S. Supreme Court made two decisions upholding the rights of both LGBTQ+ people in the workplace and DACA (Deferred Action for Childhood Arrivals) recipients, also known as DREAMers.
 
-Bostock v. Clayton County, Georgia
+#### Bostock v. Clayton County, Georgia
 
 On June 15, the court upheld a law that protects gay and transgender workers from discrimination by a vote of 6-3.
 
@@ -21,7 +21,7 @@ Chief Justice Neil Gorsuch wrote the opinion for the majority that said firing a
 
 According to The New York Times, until the court’s decision, it was legal in more than half of the states in the country to fire workers for being gay, bisexual or transgender. As of this month, that is no longer the case.
 
-Department of Homeland Security, et al. v. Regents of The University of California, et al.
+#### Department of Homeland Security, et al. v. Regents of The University of California, et al.
 
 On June 18, the court protected the program known as DACA from being removed by the Trump administration by a vote of 5-4. Chief Justice John Roberts wrote the opinion, citing that the administration did not provide “a reasoned explanation for its action.”
 
@@ -31,7 +31,7 @@ DACA was implemented in 2012 to protect certain individuals who were brought to 
 
 Roberts’ opinion stated that although the removal of DACA is a possibility in the future, the court found that saying DACA was an “illegal and unconstitutional” program created by the Obama administration is not a good enough reason to remove the program now.
 
-June Medical Services LLC v. Russo
+#### June Medical Services LLC v. Russo
 
 With these highly politicized issues find rather liberal results in the court this month, there is some sentiment from reporters and other experts on whether a law in Louisiana that limits women’s access to abortions will be upheld or deemed unconstitutional in an upcoming decision.  
 
