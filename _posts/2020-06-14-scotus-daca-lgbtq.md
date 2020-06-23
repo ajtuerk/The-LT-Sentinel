@@ -1,4 +1,11 @@
-
+---
+layout: post
+title:  "Supreme Court Wins For DREAMers And LGBTQ+ Community May Suggest Liberal Outcome In Upcoming Abortion Case"
+author: brogan
+categories: [ national ]
+image: assets/images/scotus.jpg
+tags: [featured]
+---
 
 
 
