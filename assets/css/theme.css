@@ -1,10 +1,12 @@
 body {
 	overflow-x:hidden;
-	padding-top:69.75px;
+	/*padding-top:69.75px;*/
+	padding-top: 130px;
 }
 .site-content {
 	margin-top:30px;
 	min-height:400px;
+	padding-top: 25px;
 }
 .remove-site-content-margin {
 	margin-top:-30px;
@@ -43,6 +45,7 @@ a.text-dark:hover {
 		font-size:3.5rem;
 	}
 }
+
 @media (max-width:767.98px) {
 	.display-3 {
 		font-size:2rem;
