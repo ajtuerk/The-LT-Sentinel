@@ -1,4 +1,11 @@
-
+---
+layout: post
+title:  "Protesters call for racial justice, reform in Cockeysville"
+author: joe
+categories: [ local ]
+image: assets/images/the-round-up.jpg
+tags: [featured]
+---
 
 
 
