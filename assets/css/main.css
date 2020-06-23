@@ -77,6 +77,13 @@ body {
 [tabindex="-1"]:focus {
   outline: 0 !important; }
 
+.about-us {
+  padding: 10px 0px 10px 0px;
+}
+.mission {
+  padding: 10px 0px 10px 0px;
+}
+
 hr {
   box-sizing: content-box;
   height: 0;
