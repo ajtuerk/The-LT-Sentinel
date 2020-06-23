@@ -78,7 +78,7 @@ body {
   padding: 10px 0px 10px 0px;
 }
 .goth-font {
-  font-family: "UnifrakturCook", cursive;
+  font-family: "UnifrakturCook", cursive !important;
 }
 hr {
   box-sizing: content-box;
