@@ -3,11 +3,11 @@ title: "Contact"
 permalink: "/contact.html"
 ---
 
-<h3 style="font-family: "UnifrakturCook", cursive;">About Us</h3>
+<h3 class="goth-font">About Us</h3>
 <div class="about-us">
 The Lutherville-Timonium Sentinel is a local community newspaper serving the greater Lutherville-Timonium area. You can check out our authors <a href="/authors-list.html">here</a>.
 </div>
-<h3 style="font-family: "UnifrakturCook", cursive;">Our Mission</h3>
+<h3 class="goth-font">Our Mission</h3>
 <div class="mission">
 The fabric of our communities is being torn apart. Civic engagement as a virtue has faded to the periphery of the national consciousness, and neighbors increasingly no longer see the strings of economics, politics and personal life that weave them together, only that which categorize them against each other. <br />
 <br />
