@@ -76,7 +76,12 @@ body {
 
 [tabindex="-1"]:focus {
   outline: 0 !important; }
-
+.contact-wrap {
+  max-width: 90%;
+  margin-auto;
+  display: flex;
+  flex-direction: column;
+}
 hr {
   box-sizing: content-box;
   height: 0;
