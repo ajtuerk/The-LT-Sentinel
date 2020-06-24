@@ -80,6 +80,9 @@ body {
 .goth-font {
   font-family: "UnifrakturCook", cursive !important;
 }
+.image-text {
+  color: rgba(0,0,0,0.5);
+}
 hr {
   box-sizing: content-box;
   height: 0;
