@@ -27,6 +27,9 @@ layout: default
                 {% if page.image %}
 				<div class="col-md-6 pr-0 align-self-center">
 					<img class="rounded" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}" alt="{{ page.title }}">
+					{% if page.imagetext %}
+					<p class="image-text">{{ page.imagetext }}</p>
+					{% endif %}
 				</div>
                 {% endif %}
 			</div>
