@@ -8495,7 +8495,15 @@ html {
     width: 100% !important;
   }
 }
-@media (min-width: 472px) and (max-width:575px) {
+@media (min-width: 531px) and (max-width:575px) {
+  .banner {
+    background-position: center !important;
+    background-size: cover !important;
+    height: 152px !important;
+    width: 100% !important;
+  }
+}
+@media (min-width: 472px) and (max-width:531px) {
   .banner {
     background-position: center !important;
     background-size: cover !important;
