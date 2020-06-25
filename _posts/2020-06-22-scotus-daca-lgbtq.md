@@ -15,7 +15,7 @@ This month, the U.S. Supreme Court made two decisions upholding the rights of bo
 
 On June 15, the court upheld a law that protects gay and transgender workers from discrimination by a vote of 6-3.
 
-Chief Justice Neil Gorsuch wrote the opinion for the majority that said firing a worker based on sexual orientation and identity violated Title VII, which states that it is “unlawful ... for an employer to fail or refuse to hire or to discharge any individual, or otherwise to discriminate against any individual ... because of such individual’s race, color, religion, sex, or national origin.”
+Associate Justice Neil Gorsuch wrote the opinion for the majority that said firing a worker based on sexual orientation and identity violated Title VII, which states that it is “unlawful ... for an employer to fail or refuse to hire or to discharge any individual, or otherwise to discriminate against any individual ... because of such individual’s race, color, religion, sex, or national origin.”
 
 “There is no escaping the role intent plays,” Gorsuch wrote. “Just as sex is necessarily a but-for cause when an employer discriminates against homosexual or transgender employees, an employer who discriminates on these grounds inescapably intends to rely on sex in its decisionmaking.”
 
@@ -42,3 +42,5 @@ This requirement is put in place as an assurance that if a patient were to need 
 In the past, the court has delivered conflicting decisions over the issue of admitting privileges, stating that they are either “a constitutional way for states' to protect women's health or an unconstitutional overreach that unduly burdens women,” according to Vox.
 
 It will be interesting to see what the court decides to do in this upcoming case following its previous decisions about progressive and controversial topics like LGBTQ+ rights and immigration, and what the majority cites as its reason for doing so.
+
+(Correction: an earlier version of this story had the incorrect title for Neil Gorsuch -- he is an Associate Justice, not the Chief Justice. Our apologies to John Roberts.)
