@@ -8469,3 +8469,61 @@ html {
     align-self: baseline !important; }
   .align-self-xl-stretch {
     align-self: stretch !important; } }
+
+@media (min-width: 992px) and (max-width:991px) {
+    .banner {
+      background-position: center;
+      background-size: cover;
+      height: 286px;
+      width: 100%;
+  }
+}
+
+@media only screen and (min-width:768px) and (max-width:991px){
+  .banner {
+    background-position: center;
+    background-size: cover;
+    height: 214px;
+    width: 100%;
+  }
+}
+@media (min-width: 576px) {
+  .banner {
+    background-position: center;
+    background-size: cover;
+    height: 160px;
+    width: 100%;
+  }
+}
+@media (min-width: 472px) {
+  .banner {
+    background-position: center;
+    background-size: cover;
+    height: 140px;
+    width: 100%;
+  }
+}
+@media (min-width: 448px) {
+  .banner {
+    background-position: center;
+    background-size: cover;
+    height: 133px;
+    width: 100%;
+  }
+}
+@media (min-width: 390px) {
+  .banner {
+    background-position: center;
+    background-size: cover;
+    height: 116px;
+    width: 100%;
+  }
+}
+@media (min-width: 324px) {
+  .banner {
+    background-position: center;
+    background-size: cover;
+    height: 6rem;
+    width: 100%;
+  }
+}
