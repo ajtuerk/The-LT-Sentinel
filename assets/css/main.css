@@ -8479,6 +8479,12 @@ html {
     width: 95%;
     margin: auto;
   }
+  .mb-5.frontpage-all .col-md-3 {
+    width: 95%;
+    margin:auto;
+    padding-left: 0px;
+    padding-right: 0px;
+  }
 }
 
 @media (min-width: 992px) and (max-width:1100px) {
