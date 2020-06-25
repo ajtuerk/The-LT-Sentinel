@@ -8470,6 +8470,17 @@ html {
   .align-self-xl-stretch {
     align-self: stretch !important; } }
 
+@media (max-width:767px) {
+  .mb-5.frontpage-all {
+    flex-direction: column-reverse;
+    align-items: flex-start;
+  }
+  .mb-5.frontpage-all .pr-3 {
+    width: 95%;
+    margin: auto;
+  }
+}
+
 @media (min-width: 992px) and (max-width:1100px) {
     .banner {
       background-position: center !important;
