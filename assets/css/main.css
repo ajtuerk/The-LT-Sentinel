@@ -8470,7 +8470,7 @@ html {
   .align-self-xl-stretch {
     align-self: stretch !important; } }
 
-@media (min-width: 992px) and (max-width:991px) {
+@media (min-width: 992px) and (max-width:1200px) {
     .banner {
       background-position: center !important;
       background-size: cover !important;
