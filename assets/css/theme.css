@@ -802,4 +802,11 @@ div.a2a_full_footer {display:none;}
 		 height:280px !Important;
 	 }
  }
+@media (max-width: 771px) {
+    .navbar-brand {
+	    text-align: center !important;
+	    margin: auto !important;
+	    font-size: 6.5vw !important;
+    }
+ }
  
