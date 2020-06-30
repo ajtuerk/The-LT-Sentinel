@@ -3,7 +3,7 @@ layout: post
 title:  "Sports just for the sake of sports"
 author: gabe
 categories: [ opinion ]
-image: assets/images/youth-sport.jpg
+image: assets/images/youth-sports.jpg
 imagetext: stock photo from pixabay.com
 tags: [featured]
 ---
