@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Sports just for the sake of sports"
+author: gabe
+categories: [ opinion ]
+image: assets/images/youth-sport.jpg
+imagetext: stock photo from pixabay.com
+tags: [featured]
+---
+The current status of Maryland youth sports currently allows for low-contact outdoor practices in limited groups not exceeding 10 individuals at any time.  Staff involved and any children over the age of 9 must wear masks along with all equipment being frequently cleaned.  The restart laws also demand that all participants maintain six feet of distance at all times and constant virus screening. Anyone who has played organized sports at any level can already tell running a true team practice with these guidelines is near-impossible.  The question needs to be asked if returning kids to sports should even be a priority at the moment.
+	
+Youth sport in the age of COVID-19 is a foggy bayou of questions with very little answers. States across the country are beginning to relax restrictions slowly but surely as many leagues feel confident about their long awaited return.
+
+“Quite frankly, when COVID-19 first occurred, I thought youth sports would be one of the last things to come back,” Wayne Moss, executive director of the National Council for Youth Sport, said to the Capital Gazette.  “As things are progressing, it appears things could happen a lot quicker than perhaps we’d all anticipated.”
+
+Organizations are working through obstacles and hitting potholes, most realizing a restart to consistent play is not a simple task. What are the legal implications of a staff member or student athlete testing positive? What do evolving state and local guidelines permit? Do the rules or even foundation of the games need to be changed? And arguably the most pertinent question of them all: will players, coaches, parents, and organizers even want to come back?
+According to Businesswire, youth sport is a multi-billion-dollar industry in this country, and the pandemic is causing massive economic ruin. The issues mirror some of the problems that have stunted even major league sports to get back to competing, but in the case of youth sports those in charge typically do not have the deep pockets of pro-league executives and have no form of centralized governance. They face an even harsher economic outlook for the future and typically must deal with pools of young athletes both excited to return and fearful of the potential implications of resuming play so soon.
+
+“The idea that we’d return to youth sports before we’ve even returned to schools is surprising,” Lauren Sauer, director of operations with the Johns Hopkins Office of Critical Event Preparedness and Response, said to the Capital Gazette.  “There’s obviously a definite benefit to kids returning to sports and activity — the bonding, the exercise, the impact on mental health. That being said, sports creates, to varying degrees, environments in which you’re more likely to have exposures.”
+
+Sports just for the sake of sports cannot be part of the conversation.  While engagement in team sports has innumerable benefits to the development and growth, both mentally and physically, of young people, is it really worth infecting the loved ones most vulnerable to these athletes just to practice for a football or soccer season that may never even come? Could these kids benefit more from general athletic practice, training things like strength, agility and endurance as many play multiple sports anyway? This sentiment is not unique, as many studies have shown the fear people are still exhibiting about a return to large group gatherings of any kind. 
+	
+In a May Washington Post-University of Maryland poll, 66% of Americans said they expect gatherings of 10 or more people won’t be safe until at least the end of July. That includes 24% who believe it could take as long as 2021 to return to a safe group environment.
+
+“We’re aware we’re going to lose a lot of teams at a lot of our events, we get that. The thing I feel comfortable about: you don’t have to come to our event.” Roger Goudy, the President of Amateur Athletic Union, said to The Baltimore Sun. The AAU is one of the biggest youth organizers in the country. “It’s strictly voluntary. It’s not like public education. If you want to come, you come. It still goes back to personal choice.” 
+
+The way the nation looks at youth sports post-pandemic will have to change drastically.  Most adults in America have grown to associate youth sports with organized games and tournaments.  In reality what most kids want is to have an experience with their fellow teammates and have the chance to get better at their chosen sport.  Both of these things can be achieved in excess with well thought-out practice sessions.  For both underfunded participants and organizers alike, this is seen as an opportunity to dismantle the youth sports culture of wildly expensive travel teams, heightening the emphasis on health and safety of players and staff alike and transitioning from pricey clubs to volunteer-based grassroots institutions.     
+While there are many who choose to see the restrictions put in place for youth sports as an infringement on basic American rights, there are many more who are seeing this an opportunity to reshape how we handle something that has been a norm for the majority of the nation in a way that actually has a greater benefit not just to the individual athlete but to the youth sporting culture as a whole.  This transition back to organized sports needs to be taken slow, and in a way that benefits all youth athletes, not just the organizers and families that pay high end dues for the most exclusive and pricey clubs.
