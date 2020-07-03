@@ -9,7 +9,7 @@ tags: [featured]
 ---
 A group of Timonium residents has organized in opposition to two residential development plans being considered by Baltimore County officials, criticizing the high number of homes slated for construction and the potentially adverse effects on local infrastructure, the environment and the character of the surrounding neighborhoods. 
 
-The Lanahan Meadows proposal entails the construction of 31 houses on quarter-acre lots next to the Villa Maria school on Dulaney Valley Road, and the Villas at Pot Spring proposal would place a community of 42 duplex units on Pot Spring Road by Merrymans run. 
+The Lanahan Meadows proposal entails the construction of 31 houses on quarter-acre lots next to the Villa Maria school on Dulaney Valley Road, and the Villas at Pot Spring proposal would place a community of 42 duplex units on Pot Spring Road by Merrymans Run. 
 
 “Save Pot Spring,” a coalition of both the Spring Lake Community Association and the Pot Spring Community Association, has become the primary organization rallying Timonium residents against the development plans. Their bright yellow signs have become a common sight throughout the surrounding neighborhoods in recent weeks as residents have joined email lists and attended community meetings in solidarity with the opposition.
 
