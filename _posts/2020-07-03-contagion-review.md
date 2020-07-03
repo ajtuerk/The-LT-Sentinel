@@ -30,3 +30,4 @@ Contagion is an example of Steven Soderbergh’s technical mastery and ability t
 DIALOGUE THAT SHINES:
 “Why can’t they invent a shot that keeps time from passing!” Relatable.
 “A virus is too small to be seen on camera.” Facts, facts, and more facts.
+
