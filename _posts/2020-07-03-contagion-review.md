@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Contagion, revisited: "A bunch of insecure men have the worst day imaginable" "
+title:  "Contagion, revisited: "A bunch of insecure men have the worst day imaginable""
 author: andy
 categories: [ culture ]
 image: assets/images/contagion.jpg
@@ -25,7 +25,7 @@ Like the visuals, the sound design is on par with his past films like the Ocean�
 
 I was skeptical about the credibility of these characters when Gwyneth Paltrow blames her cough on jet lag - sneaky way to mention she was on a plane, but she was in an airport already. But it turns out, this film is highly credible in its perception of humanity and our psychological responses to what we have no control over. Although only scratching the surface of public health and epidemiological concepts, they do so accurately. The virus itself must be viewed as a monster - nothing like pandemics we’ve seen - so it’s not scary realistic, but it’s scary if you already hate germs. The scariest concepts in this film are the depictions of the future and of quarantine - and how freaking calm Matt Damon is the whole time. 
 
-Contagion is an example of Steven Soderbergh’s technical mastery and ability to pull an awards-seasoned cast, but not too much more than that. The explanation for the spawn or mutation of this virus is great, but it happens at the end. The beginning of the story…happens at the end. And no, not in a cool way. In my humble opinion, this could use a “laughter is the best medicine” character - and Demetri Martin’s already in it! Missed opportunity. Watch this, then Magic Mike to see Soderbergh take a smart step away from this genre, and continue to be one of the most prolific directors of our time (two Best Director noms in 2001, he lost to himself). (3/5)
+Contagion is an example of Steven Soderbergh’s technical mastery and ability to pull an awards-seasoned cast, but not too much more than that. The explanation for the spawn or mutation of this virus is great, but it happens at the end. The beginning of the story…happens at the end. And no, not in a cool way. In my humble opinion, this could use a “laughter is the best medicine” character - and Demetri Martin’s already in it! Missed opportunity. Watch this, then Magic Mike to see Soderbergh take a smart step away from this genre, and continue to be one of the most prolific directors of our time (two Best Director noms in 2001, he lost to himself). (3/5). 
 
 DIALOGUE THAT SHINES:
 “Why can’t they invent a shot that keeps time from passing!” Relatable.
