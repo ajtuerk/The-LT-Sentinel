@@ -7,6 +7,7 @@ image: assets/images/contagion.jpg
 imagetext: photo from collider, graphic by Alexander Tuerk
 tags: [featured]
 ---
+
 CONTAGION WOULD’VE BEEN THOUGHT PROVOKING IN 2011.
 
 If you want to watch a bunch of insecure men have the worst day imaginable, just watch Uncut Gems. But if you’ve already seen the Safdie-Sandman sensation, Contagion should do the trick. 
