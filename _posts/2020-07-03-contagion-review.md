@@ -1,3 +1,12 @@
+---
+layout: post
+title:  "Contagion, revisited: "A bunch of insecure men have the worst day imaginable" "
+author: andy
+categories: [ culture ]
+image: assets/images/contagion.jpg
+imagetext: photo from collider, graphic by Alexander Tuerk
+tags: [featured]
+---
 
 CONTAGION WOULD’VE BEEN THOUGHT PROVOKING IN 2011.
 
