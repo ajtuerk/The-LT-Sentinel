@@ -68,7 +68,15 @@ authors:
       avatar:         
       bio:            "Staff Writer"
       email:          nick_enoch90@yahoo.com
-      twitter:           
+      twitter:   
+      
+   andy:
+      name:           Andrew Lambros
+      site:           http://theltsentinel.com
+      avatar:         
+      bio:            "Cinema Critic"
+      email:          andylambros2@gmail.com
+      twitter:  
  
 # Defaults
 defaults:
