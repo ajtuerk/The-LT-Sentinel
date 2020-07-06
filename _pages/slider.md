@@ -11,10 +11,10 @@ permalink: "/slides.html"
                 <h2 class="font-weight-bold">{{page.title}}</h2>    
             </div>
             <div class="col-md-3 text-right">
-                <img alt="{{ site.authors.joe.name }}" src="{{site.baseurl}}/{{ site.authors.joe.avatar }}" class="rounded-circle" height="100" width="100">
+                <!--<img alt="{{ site.authors.joe.name }}" src="{{site.baseurl}}/{{ site.authors.joe.avatar }}" class="rounded-circle" height="100" width="100">-->
             </div>
         </div>
-        <h4 class="font-weight-bold spanborder"><span>Posts by {{page.title}}</span></h4>
+        <h4 class="font-weight-bold spanborder"><span>Slider posts</span></h4>
             {% for slide in site.slider %}
                 <a href="{{site.baseurl}}{{slide.url}}">
                     <h2>{{ slide.name }}</h2>
