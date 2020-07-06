@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ""She always wears her heart on her sleeve," a review of Punisher by Phoebe Bridgers"
+title:  "Punisher by Phoebe Bridgers, reviewed"
 author: eric
 categories: [ culture ]
 image: assets/images/punisher.png
