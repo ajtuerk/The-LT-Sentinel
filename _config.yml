@@ -103,6 +103,11 @@ defaults:
     values:
       layout: page
       
+  #all sliders
+  - scope:
+      path: "_slider"
+    values:
+      layout: slider
 # Syntax
 markdown: kramdown
 highlighter: rouge
