@@ -16,8 +16,10 @@ permalink: "/slides.html"
         </div>
         <h4 class="font-weight-bold spanborder"><span>Posts by {{page.title}}</span></h4>
             {% for slide in site.slider %}
-                <h2>{{ slide.name }}</h2>
-                <p>{{ staff_member.content | markdownify }}</p>
+                <a href="{{site.baseurl}}{{slide.url}}">
+                    <h2>{{ slide.name }}</h2>
+                    <p>{{ staff_member.content | markdownify }}</p>
+                </a>
             {% endfor %}
     </div>
 </div>
