@@ -22,3 +22,13 @@ permalink: "/slides.html"
     </div>
 </div>
 </div>
+<!-- ---
+name: The first slider post!
+directory: /assets/images/
+author: Alex
+category: Local
+images:
+  - "1.jpg"
+  - "1.jpg"
+  - "1.jpg"
+--- -->
