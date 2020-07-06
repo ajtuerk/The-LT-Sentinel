@@ -77,6 +77,14 @@ authors:
       bio:            "Cinema Critic"
       email:          andylambros2@gmail.com
       twitter:  
+      
+   eric:
+      name:           Eric Walz
+      site:           http://theltsentinel.com
+      avatar:         
+      bio:            "Music Critic"
+      email:          ewalz97@gmail.com
+      twitter:        
  
 # Defaults
 defaults:
