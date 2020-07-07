@@ -1,7 +1,7 @@
 ---
 name: The first slider post!
 directory: /assets/images/
-author: alex
+author: joe
 category: Local
 images:
   - "1.jpg"
