@@ -32,8 +32,18 @@ a,a:hover {
 	background:transparent;
 	-webkit-appearance: none;
 	appearance: none;
-	height:100%;
+	border:none;
+	top:0px;
+	bottom:0px;
 	width:100px;
+}
+.slider_arrow left {
+	left:0px;
+	right:auto;
+}
+.slider_arrow right {
+	right:0px;
+	left:auto;
 }
 a {
 	color:#03a87c;
