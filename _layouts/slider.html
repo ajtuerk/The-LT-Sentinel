@@ -70,7 +70,7 @@ layout: default
             <!-- Article -->
 			<div style="width:100%;min-height:500px;">
 				{% for urls in page.images %}
-					<img class="mySlides" src="{{urls.directory}}{{urls.image}}" style="width:100%;height:100%;">
+					<img class="mySlides" src="{{page.directory}}{{page.urls}}" style="width:100%;height:100%;">
 				{% endfor %}
 			</div>
 			<article class="article-post">                
