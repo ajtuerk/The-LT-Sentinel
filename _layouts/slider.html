@@ -67,10 +67,10 @@ layout: default
         
 		<div class="col-md-12 col-lg-8">
             
-            <!-- Article -->
+            <!-- SLIDER -->
 			<div style="width:100%;height:200px;">
-				{% for image in page.images.url %}
-					{{page.images.length}}
+				{% for image in page.images.src %}
+					{{page.images.src}}
 					<img class="mySlides" src="{{page.directory}}{{image.src}}" style="width:100%;height:100%;">
 				{% endfor %}
 			</div>
