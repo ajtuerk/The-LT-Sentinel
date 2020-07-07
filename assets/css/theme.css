@@ -27,6 +27,14 @@ a,a:hover {
 	transition:all .2s;
 	text-decoration:none;
 }
+.slider_arrow {
+ 	position:absolute;
+	background:transparent;
+	-webkit-appearance: none;
+	appearance: none;
+	height:100%;
+	width:100px;
+}
 a {
 	color:#03a87c;
 }
