@@ -37,11 +37,11 @@ a,a:hover {
 	bottom:0px;
 	width:100px;
 }
-.slider_arrow left {
+.slider_arrow.left {
 	left:0px;
 	right:auto;
 }
-.slider_arrow right {
+.slider_arrow.right {
 	right:0px;
 	left:auto;
 }
