@@ -5,7 +5,7 @@ author: Alex
 category: Local
 images:
   src: "1.jpg"
-  src: "1.jpg"
-  src: "1.jpg"
+  src: "2.jpg"
+  src: "3.jpg"
 ---
 This is where the content will go under the slider!
