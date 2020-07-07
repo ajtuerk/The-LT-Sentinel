@@ -70,6 +70,7 @@ layout: default
             <!-- Article -->
 			<div style="width:100%;min-height:200px;">
 				{% for image in page.images %}
+					{{page.images.length}}
 					<img class="mySlides" src="{{page.directory}}{{image.src}}" style="width:100%;height:100%;">
 				{% endfor %}
 			</div>
