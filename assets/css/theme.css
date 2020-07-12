@@ -13,6 +13,9 @@ body {
 img {
 	max-width:100%;
 }
+.image-4:hover {
+	opacity: 60%;
+}
 .tofront {
 	position:relative;
 	z-index:1;
