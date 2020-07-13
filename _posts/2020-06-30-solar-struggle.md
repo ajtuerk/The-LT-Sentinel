@@ -5,7 +5,7 @@ author: alex
 categories: [ local ]
 image: assets/images/balt-co.png
 imagetext: photo from Wikipedia under public domain
-tags: [featured, sticky]
+tags: [featured]
 ---
 A June 18 public hearing on zoning in Baltimore County’s third district revealed a conflict over the construction of certain solar farms - in support, the landowners and solar companies, and in opposition, Councilman Wade Kach and neighbors around the plots in question. 
 
