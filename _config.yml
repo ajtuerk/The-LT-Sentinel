@@ -84,7 +84,15 @@ authors:
       avatar:         
       bio:            "Music Critic"
       email:          ewalz97@gmail.com
-      twitter:        
+      twitter:
+      
+   catriona:
+      name:           Catriona Kendall
+      site:           
+      avatar:         
+      bio:            "Staff Writer"
+      email:          catriona.kendall@gmail.com
+      twitter:          
  
 # Defaults
 defaults:
