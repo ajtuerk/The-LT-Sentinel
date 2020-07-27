@@ -5,7 +5,7 @@ author: andy
 categories: [ culture ]
 image: assets/images/contagion.jpg
 imagetext: photo from collider, graphic by Alexander Tuerk
-tags: [featured]
+tags: 
 ---
 CONTAGION WOULD’VE BEEN THOUGHT PROVOKING IN 2011.
 
