@@ -4,7 +4,7 @@ title:  "Protesters call for racial justice, reform in Cockeysville"
 author: joe
 categories: [ local ]
 image: assets/images/target-protest.jpg
-tags: [featured]
+tags: 
 ---
 
 
