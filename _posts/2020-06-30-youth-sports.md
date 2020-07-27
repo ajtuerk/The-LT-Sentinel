@@ -5,7 +5,7 @@ author: gabe
 categories: [ opinion ]
 image: assets/images/youth-sports.jpg
 imagetext: stock photo from pixabay.com
-tags: [featured]
+tags:
 ---
 The current status of Maryland youth sports currently allows for low-contact outdoor practices in limited groups not exceeding 10 individuals at any time.  Staff involved and any children over the age of 9 must wear masks along with all equipment being frequently cleaned.  The restart laws also demand that all participants maintain six feet of distance at all times and constant virus screening. Anyone who has played organized sports at any level can already tell running a true team practice with these guidelines is near-impossible.  The question needs to be asked if returning kids to sports should even be a priority at the moment.
 	
