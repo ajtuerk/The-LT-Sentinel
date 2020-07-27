@@ -4,7 +4,7 @@ title:  "Supreme Court Wins For DREAMers And LGBTQ+ Community May Suggest Libera
 author: brogan
 categories: [ national ]
 image: assets/images/scotus.jpg
-tags: [featured]
+tags: 
 ---
 
 
