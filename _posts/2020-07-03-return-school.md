@@ -5,7 +5,7 @@ author: nick
 categories: [ opinion ]
 image: assets/images/nick-op.jpeg
 imagetext: photo from author
-tags: [featured]
+tags:
 ---
 As the COVID-19 pandemic continues to establish new definitions of “normal” across the country, states are beginning to slowly reopen and students, from elementary school to college, are uncertain under what circumstances they will return in the fall.
 	
