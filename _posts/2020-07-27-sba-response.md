@@ -4,7 +4,7 @@ title:  "Federal coronavirus aid marred by mismanagement, lack of transparency"
 author: joe
 categories: [ opinion, national ]
 image: assets/images/sba-response.jpg
-tags: 
+tags: [featured]
 ---
 Federal economic relief programs included in the CARES Act last March have come under growing scrutiny from watchdog groups and elected officials amid concerns that federal funding is not going where it is needed most.
 
