@@ -39,4 +39,4 @@ Sustained criticism over transparency and conflicts of interest reflect a legisl
 
 “What did folks expect when we spent $2 trillion of taxpayer money in three months? Of course there’s going to be massive waste, fraud and abuse,” Representative Thomas Massie (R-KY) told The Hill earlier this week.
 
-The widespread concerns over accountability now loom heavily over ongoing congressional debates as elected officials mull the next round of federal economic relief. House Democrats and Senate Republicans are expected to begin negotiations on a new coronavirus relief bill on Mmonday.
+The widespread concerns over accountability now loom heavily over ongoing congressional debates as elected officials mull the next round of federal economic relief. House Democrats and Senate Republicans are expected to begin negotiations on a new coronavirus relief bill on Monday.
