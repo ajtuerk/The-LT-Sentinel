@@ -4,7 +4,7 @@ title:  "Ravens Coach Harbaugh says NFL COVID-19 guidelines are “impossible”
 author: gabe
 categories: [ sports ]
 image: assets/images/ravens-stadium.jpg
-tags: [featured]
+tags:
 ---
 Baltimore Ravens head coach John Harbaugh detailed the NFL’s COVID-19 guidelines for returning to preseason training during an interview Thursday evening with local sports station 105.7 The Fan.  Harbaugh mentions early in the conversation with Jason LaCanfora that due to COVID-19 he and his staff “haven’t seen our players, in person, at all,” which has pushed the staff to utilize as much virtual communication as they can. 
 
