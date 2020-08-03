@@ -5,7 +5,7 @@ author: catriona
 categories: [ local ]
 image: assets/images/balt-co.png
 imagetext: photo from Wikipedia under public domain
-tags: [featured, sticky]
+tags: [featured]
 ---
 Despite the COVID-19 pandemic, Maryland is moving forward with its state fair next month, though concern for attendees’ health has prompted organizers to reimagine the event, according to Andy Cashman, general manager of the Maryland State Fair. 
 
