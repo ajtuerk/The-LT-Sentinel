@@ -5,7 +5,7 @@ author: catriona
 categories: [ local ]
 image: assets/images/balt-co.png
 imagetext: photo from Wikipedia under public domain
-tags: [featured, sticky]
+tags: [featured]
 ---
 Baltimore County implemented a new mandate on July 23 requiring everyone ages 2 and over to wear masks in indoor public spaces. Less than a week later, Gov. Larry Hogan (R) announced an expansion of statewide restrictions to require masks for everyone over the age of 5, to take effect on July 31.
 
