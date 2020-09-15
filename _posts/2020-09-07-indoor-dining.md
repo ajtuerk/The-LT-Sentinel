@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Balt. County restaurants anxiously re-open; MD enters Phase 3"
+title:  "As MD enters stage 3, Balt. Co. restaurants work to provide safe environments"
 author: catriona
 categories: [ local ]
 image: assets/images/balt-co.png
